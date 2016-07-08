@@ -10,4 +10,4 @@ The default value is 150. A larger value will give more accurate graphs but slow
 
 ## Example
 The accelerometer is taped to a subwoofer emitting a pitch at 77 hertz.
-![graph]( FrequencyPlotter/figure_1.png)
+![graph](https://github.com/Awalrod/FrequencyPlotter/blob/master/figure_1.png)
