@@ -3,7 +3,7 @@ This is an example program using Gulf Coast Data Concept's SSP-x accelerometers.
 a serial port and creates a live graph showing the frequency the accelerometer is vibrating at.
 
 ## Usage
-In the terminal:
-`$ python grapherWithAnimation.py <Serial Port> <Chunk Size>`
-`<Chunk Size>` is the amount of data fetched at one time
+In the terminal:  
+`$ python grapherWithAnimation.py <Serial Port> <Chunk Size>`  
+`<Chunk Size>` is the amount of data fetched at one time.
 The default value is 150. A larger value will give more accurate graphs but slower animation
