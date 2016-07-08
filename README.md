@@ -7,3 +7,7 @@ In the terminal:
 `$ python grapherWithAnimation.py <Serial Port> <Chunk Size>`  
 `<Chunk Size>` is the amount of data fetched at one time.
 The default value is 150. A larger value will give more accurate graphs but slower animation
+
+## Example
+The accelerometer is taped to a subwoofer emitting a pitch at 77 hertz.
+![graph]( FrequencyPlotter/figure_1.png )
